@@ -6,4 +6,6 @@
     "lib": ["es6"],
     "sourceMap": true
   }
-} // 커맨트 쉬프트 비
+} // ctrl + shift + b로 빌드
+
+// "tsc -w" 입력시 자동으로 변환
